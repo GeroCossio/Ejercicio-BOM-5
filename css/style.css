@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow-x: hidden;
+  
+}
+
+.cronometro-contenedor {
+    display: flex;
+    flex-direction: column;
+}
+
+
+#cronometro {
+    font-size: 85px;
+    font-weight: bold;
+    margin: 10px;
+
+}
+
+.botones {
+    display: flex;
+    gap: 12px;
+
+}
+
+button {
+    font-size: 40px;
+    padding: 10px;
+}
