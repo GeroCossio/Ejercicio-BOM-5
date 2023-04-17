@@ -1,8 +1,11 @@
 # TP N°5 de JavaScript 🚀
 
-Se realiza el ejercicio numero 3 del TP 5 de JS
-
+Realizar una web con un cronómetro, que tenga las opciones de iniciar, reset (volver el cronómetro a 0) y pausar.
 NOTA: La rama logica se convirtio en default por un error del primer commit hecho en main 
+
+## Link de netlify
+
+https://ejercicio-bom-5.netlify.app/
 
 ## Pre-requisitos 📋
 
