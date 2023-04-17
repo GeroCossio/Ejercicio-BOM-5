@@ -2,7 +2,7 @@
 
 Se realiza el ejercicio numero 3 del TP 5 de JS
 
-NOTA: La rama logica se convirtio el default por un error del primer commit hecho en main 
+NOTA: La rama logica se convirtio en default por un error del primer commit hecho en main 
 
 ## Pre-requisitos 📋
 
